@@ -1,0 +1,17 @@
+# Ultra-Minimal Requirements for Python 3.13
+# Core Flask Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Database - Simple start
+pymongo==4.6.1
+
+# Basic utilities
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Document processing
+PyPDF2==3.0.1
+
+# Development
+pytest==7.4.0
